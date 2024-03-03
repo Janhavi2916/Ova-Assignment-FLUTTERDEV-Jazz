@@ -1,2 +1,2 @@
-# Ova-Assignment-DEVOPS-Jazz
+# Ova-Assignment-FLUTTERDEV-Jazz
 flutter Intern
